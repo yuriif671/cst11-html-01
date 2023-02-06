@@ -55,7 +55,7 @@ blackfoot.jpg
 napi.jpg
 unnamed.jpg
 
-Assignment:
+# Assignment:
 Use basic formatting tags to modify the napi.html story to make it more interesting to look at.  You can experiment with several of the different tags.
 You should have paragraphs, different colors and formatting, as well as headings.  You should use the img tag to include the images that have been provided.
 You must include examples of nested tags as well.
