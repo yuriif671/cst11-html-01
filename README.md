@@ -51,9 +51,9 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
  ```
 
 It is a good idea to include all the resouces (including graphics files) that you will need in your working directory.  We have included some that you can use for today's assignment.
-blackfoot.jpg
-napi.jpg
-unnamed.jpg
+* blackfoot.jpg
+* napi.jpg
+* unnamed.jpg
 
 # Assignment:
 Use basic formatting tags to modify the napi.html story to make it more interesting to look at.  You can experiment with several of the different tags.
