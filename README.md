@@ -7,7 +7,7 @@ Open up the *Extensions* from the activity bar. This functions like the Google C
 We will be installing the following extensions for use with this unit on HTML:
 1. Beautify
 2. Preview in browser
-3. Live Server
+3. Live Preview (Microsoft)
 
 Note that every extension has settings that you should review when you are installing them to make sure that they are correct for you.  Preview in browser, for example needs to have the correct browser (or default browser) identifed
 
