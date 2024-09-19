@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    font-family: 'Comic Sans MS';
+    font-size: 25px;
+    background-color: gray;
+    color: whitesmoke;
+}
+
+.next-page {
+    
+    margin-bottom: 10%;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-size: 1em;
+}
+
+img {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.napi {
+    max-width: 10em;
+    max-height: 20em;
+}
+
+.clay-people {
+    width: 500px;
+    height: 300px;
+}
+
+.title {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+.book {
+    margin: 0 30%;
+    text-align: left;
+}
